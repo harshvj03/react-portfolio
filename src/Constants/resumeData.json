@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Harsh Vijay Singh",
+    "occupation": "Full Stack Web Developer",
+    "description": "I eat, sleep and breathe code, i love programming",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Harsh! .",
+    "contactmessage": "Get in touch with me",
+    "email": "harshvj03@gmail.com",
+    "phone": "+91 83499XXXXX",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Pune",
+      "state": "Devosphere",
+      "zip": "W3B D3V"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCPy6iolTVX565ACOBnctPAw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/harshvijay.singh.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/harsh-vijay-singh-0303b482/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/harsh_vj06/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/harshvj03",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "SVITS, Indore",
+        "degree": "Bachelor's Degree, Electronic and Communication",
+        "graduated": "July 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "GS Lab",
+        "title": "Senior Software Engineer",
+        "years": "March 2021 - Present",
+        "description": "Working a .Net FullStack web developer, having exposure to Asp.net core, react and Azure Devops"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "C#",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
