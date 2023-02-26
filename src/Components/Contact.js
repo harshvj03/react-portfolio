@@ -125,10 +125,10 @@ const Contact = ({ data }) => {
                             <br />
                             {contactEmail}
                             <br />
-                            <br />
+                            {/* <br />
                             {street} <br />
                             {city}, {state} {zip}
-                            <br />
+                            <br /> */}
                             <span>{phone}</span>
                         </p>
                     </div>
