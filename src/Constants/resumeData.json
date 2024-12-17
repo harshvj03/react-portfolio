@@ -55,18 +55,27 @@
       }
     ],
     "work": [
-      {
-        "company": "GS Lab",
-        "title": "Senior Software Engineer",
-        "years": "March 2021 - July 2024",
-        "description": "Working a .Net FullStack web developer, having exposure to Asp.net core, Nodejs , react and Azure Devops"
-      }, 
+    
 {
         "company": "HTC Global",
         "title": "Senior Engineer",
         "years": "July 2024 - Present",
         "description": "Working a .Net FullStack web developer, having exposure to Asp.net core, Nodejs , react and Azure Devops"
-      }
+      },
+        {
+        "company": "GS Lab",
+        "title": "Senior Software Engineer",
+        "years": "March 2021 - July 2024",
+        "description": "Working a .Net FullStack web developer, having exposure to Asp.net core, Nodejs , react and Azure Devops"
+      }, 
+        {
+        "company": "TCS",
+        "title": "System Engineer",
+        "years": "Dec 2016 - March 2021",
+        "description": "Working a .Net FullStack web developer, having exposure to Asp.net core, Nodejs , react and Azure Devops"
+      }, 
+      
+      
     ],
     "skills": [
       {
