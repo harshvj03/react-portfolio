@@ -55,8 +55,7 @@
       }
     ],
     "work": [
-    
-{
+      {
         "company": "HTC Global",
         "title": "Senior Engineer",
         "years": "July 2024 - Present",
@@ -73,7 +72,7 @@
         "title": "System Engineer",
         "years": "Dec 2016 - March 2021",
         "description": "Working a .Net FullStack web developer, having exposure to Asp.net core, Nodejs , react and Azure Devops"
-      }, 
+      }
       
       
     ],
